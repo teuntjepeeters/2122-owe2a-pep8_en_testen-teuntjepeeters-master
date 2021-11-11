@@ -1,7 +1,7 @@
 # Naam:
 # Datum:
 # Versie:
-
+# Hello world!
 # Opmerking: Het alpaca bestand is erg groot! Neem eerst een klein proefstukje van het bestand, met 5 tot 10 fasta's. Ga je runnen met het echte bestand, geef je programma dan even de tijd.
 
 def main():
